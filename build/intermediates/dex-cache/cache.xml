@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-94ed934bfc09bad42d98524169f9b2c7fd311122.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-794116864a5bded81ff792ae64f4884491e2aeb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-854c1a8c60853235ac66bf3d2272de49007d584b.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-cb1a38c30d1aa71d6191e985f229f81a99d64a78.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-7ca3dbbe6c54b657a41193e3df2fad0fa87cc2c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-773994c6da739ad8d417a44989d7bb8e267ed47e.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-8ced8ba8e6a7aad5189cb2571603293f5cb9c6c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-2fa4c679e4a4632a518d6f7e65f7f756dc98b25d.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-f7b04619fda8f770f564cdd7c6d236d1280766b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-fe529c053c8be2278f461f996527533a167de985.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-c529d6339684f7ea7f1af71c9b54fd814457227c.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-8367d0cd457f8abd939074de13af1e5584f3e679.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-7e37df9581108bed26c20fddff1f1dc996fc02e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-8a985dba001cd243ef0c915b5741642fab9f7f84.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-faaf545a7c40e6ba18c17ed31031c259f035ba7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-1f01fccf998fc42046c19ee359f1d0aabc2ddef5.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-9f44e9683d8a8ab15c7e465bb0a2b6c85dc6004f.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-891f22840111c407465436204fdbe5662a8db07c.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-c1566a15353b277e320f86d87bde2f6ebd78ef31.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-dd920b33495738df3ee0ce7060c84e70809d5bb5.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-3c175a3f027bd17219b00486576a8ed52eac69c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-5e2e44d7b205b721d66c422a18de2e25d0175a2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\MacCallister\AndroidStudioProjects\PointsOfInterestMap\app\build\intermediates\pre-dexed\debug\classes-b639fe4250e3e7f6cc987435096a2342654eb514.jar" />
+    </item>
+
+</items>
